@@ -1,4 +1,4 @@
-| Spring Term (January-April 2024)    |
+| Spring Term (January-April 2024)    | |
 | ----------------------------------- |
 | January 1                           | New Year’s Day<br>University closed |
 | January 5                           | Welcome Day |
@@ -9,7 +9,7 @@
 | April 1                             | Easter Monday<br>All classes cancelled and university closed |
 | April 12                            | Last day of classes |
 | April 13-24                         | Exams |
-| Summer Term (May-August 2024)       |
+| Summer Term (May-August 2024)       | |
 | May 3                               | Welcome Day |
 | May 6                               | Classes start for intersession and summer term |
 | May 20                              | Victoria Day<br>All classes cancelled and university closed |
@@ -21,7 +21,7 @@
 | August 2                            | Last day of classes for summer session and summer term |
 | August 5                            | BC Day<br>University closed |
 | August 6-16                         | Exams |
-| Fall Term (September-December 2024) |
+| Fall Term (September-December 2024) | |
 | September 2                         | Labour Day<br>University closed |
 | September 3                         | Welcome Day |
 | September 4                         | Classes start |

@@ -31,8 +31,8 @@ Detail each research question you intend to answer.
     3. [https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction/data?select=Stress.csv](https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction/data?select=Stress.csv)
     4. ..and more
 2. Scraping relevant subreddits on Reddit.
-    5. [https://www.reddit.com/r/Anxiety/](https://www.reddit.com/r/Anxiety/)
-    6. https://www.reddit.com/r/mentalhealth/
+    1. [https://www.reddit.com/r/Anxiety/](https://www.reddit.com/r/Anxiety/)
+    2. https://www.reddit.com/r/mentalhealth/
 3. Social media in general: Twitter/Reddit/Instagram..etc
 
 

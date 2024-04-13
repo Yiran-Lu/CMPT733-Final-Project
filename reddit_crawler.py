@@ -15,6 +15,7 @@ Options:
 from docopt import docopt
 import redditwarp.SYNC
 import pandas as pd
+import numpy as np
 from time import sleep
 
 client = redditwarp.SYNC.Client()
@@ -45,7 +46,7 @@ if __name__ == '__main__':
             'score': post.score if post else None,
             'upvote_ratio': post.upvote_ratio if post else None,
             'title': post.title if post else None,
-            'content': escape_special_chars(post.d['selftext'].strip()) if post.d['selftext'] else None
+            'selftext': escape_special_chars(post.d['selftext'].strip()) if post.d['selftext'] else None
         }
         df_dictionary = pd.DataFrame(post_dict, index=[0])
         output = pd.concat([output, df_dictionary], ignore_index=True)
@@ -60,6 +61,6 @@ if __name__ == '__main__':
             print("Saving.. Total Scraped: "  + str(posts_scraped))
             sleep(delay / 1000)
         
-    
+    output['created'] = output.time.values.astype(np.int64) / 1000000
     output.to_csv(output_filename)
     print("Done!")

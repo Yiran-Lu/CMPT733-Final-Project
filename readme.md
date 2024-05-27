@@ -1,5 +1,5 @@
-# CMPT733 Final Project
-
+# Analysis of Stress Level of University Students Via Reddit Postings
+### CMPT733 Final Project
 
 #### <span style="text-decoration:underline;">Brian Zhou, Juanwei Hu, Yiran Lu, Sandy Deng</span> 
 
@@ -47,14 +47,14 @@ Detail each research question you intend to answer.
 * <span style="text-decoration:underline;">Data Exploration:</span> We do need to perform EDA, as a method to remove outliers and anomalies
 * <span style="text-decoration:underline;">Data Cleaning:</span> Yes, data cleaning is necessary. Scrapped data contains noise which needs to be cleaned and removed.
 * <span style="text-decoration:underline;">Data Integration:</span> Data integration is necessary because we will be using scraped data and pre-made datasets.
-* <span style="text-decoration:underline;">Data Analysis:</span> We intend to use machine learning and NLP to analyze our data. We plan to set a confidence interval to evaluate our analysis results.  \
-<span style="text-decoration:underline;">Data Product:</span> Interactive Visualization
+* <span style="text-decoration:underline;">Data Analysis:</span> We intend to use machine learning and NLP to analyze our data. We plan to set a confidence interval to evaluate our analysis results. 
+* <span style="text-decoration:underline;">Data Product:</span> Interactive Visualization
 
 
 ## 4. Expected impact
 
 
-### The completion of this project is anticipated to have a significant impact on understanding the dynamics of student mental health throughout the academic year, specifically about stress, anxiety, and the effects of academic pressures versus breaks. The greatest impact of this study could be the development of a comprehensive understanding of when students are most vulnerable to stress and anxiety and the identification of potential periods of relief. We can then use these findings to better provide mental health support to students.
+The completion of this project is anticipated to have a significant impact on understanding the dynamics of student mental health throughout the academic year, specifically about stress, anxiety, and the effects of academic pressures versus breaks. The greatest impact of this study could be the development of a comprehensive understanding of when students are most vulnerable to stress and anxiety and the identification of potential periods of relief. We can then use these findings to better provide mental health support to students.
 
 
 ## 5. Potential challenges
